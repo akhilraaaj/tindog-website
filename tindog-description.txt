@@ -1,0 +1,5 @@
+tindog-website
+
+A desktop and mobile friendly website that allows users to meet and purchase dogs in their locality.
+
+HTML, CSS and Bootstrap with a little bit of Javascript is used to implement this website.
